@@ -1,0 +1,15 @@
+binary ranking app
+
+should take input from stdin and use it to create a binary ranking, showing results of all two-item permutations,
+in order to facilitate quick and effortless decisionmaking.
+
+1. def question which will be printed at each match
+2. def a tiebreak q to clarify, it will be printed after a countdown
+3. take input to stdin
+4. make the scoring, probably as a hashmap
+5. randomize matchups
+6. display each and increment the hashmap values
+print results
+
+option to save
+option to use ratatui
