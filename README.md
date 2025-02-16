@@ -15,6 +15,6 @@ User is then presented with an exhaustive set of two-item combinations from the 
 The top-ranked item can be considered "definitively" the most-preferred outcome. The ordering of the other items is not guaranteed to reflect "true" preferences (as not all information about the rankings is preserved, only the total counts).
 
 Roadmap, if I update it:
-*Implement a Condorcet method or Elo ranking
-*Add a timeout
-*Move the implementation to a prettier TUI
+* Implement a Condorcet method or Elo ranking
+* Add a timeout
+* Move the implementation to a prettier TUI
